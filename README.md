@@ -2,7 +2,7 @@
 
 Creating a data science project that analyzes what standup comedians routines are all about !
 
-this project is inspried by amazing work of Alice Zhao. I have taken idea of data from her but, I have added my analysis based on my knowledge of NLP. Comments will be highly appreciated
+this project is inspried by amazing work of Alice Zhao. I have taken idea of data from her but, I have added my analysis based on my knowledge of natural language processing and artificial intelligence. Comments will be highly appreciated
 
 # Modules
 
